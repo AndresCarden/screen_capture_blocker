@@ -19,7 +19,7 @@ Agrega este plugin como una dependencia en tu archivo `pubspec.yaml`:
 dependencies:
   screen_capture_blocker:
     git:
-      url: https://github.com/tu-usuario/screen_capture_blocker.git
+      url: https://github.com/AndresCarden/screen_capture_blocker
 ```
 
 Ejecuta:
