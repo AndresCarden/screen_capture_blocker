@@ -1,7 +1,7 @@
 name: screen_capture_blocker
 description: "A new Flutter plugin project."
 version: 0.0.1
-homepage:
+homepage: https://github.com/AndresCarden/screen_capture_blocker
 
 environment:
   sdk: ^3.5.3
