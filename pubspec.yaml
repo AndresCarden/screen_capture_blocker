@@ -1,5 +1,5 @@
 name: screen_capture_blocker
-description: "A new Flutter plugin project."
+description: Un plugin de Flutter para bloquear capturas y grabaciones de pantalla en Android, iOS, Windows y macOS.
 version: 0.0.1
 homepage: https://github.com/AndresCarden/screen_capture_blocker
 
